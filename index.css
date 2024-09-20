@@ -28,14 +28,14 @@
   }
 
 .logo object {
-    width: 115px; 
-    height: 115px;
+    width: 48px; 
+    height: 48px;
     color: #FFF; 
   }
  
   .logo-name {
     font-family: 'Montserrat', sans-serif;
-    font-size: 112px;
+    font-size: 32px;
     font-weight: 800;
     line-height: 134.4px;
     letter-spacing: 12px;
